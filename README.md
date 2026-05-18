@@ -3,6 +3,10 @@
 To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns. Software to be used: CST studio suite 2019 (Student edition)
 
 ## Design:
+<img width="1639" height="778" alt="image" src="https://github.com/user-attachments/assets/7d32da48-8b23-42b7-88aa-0466957d636b" />
+<img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/3f1d744d-1ce7-4a1c-8e2c-837f2c336097" />
+
+
 
 ####  Mathematical Calculation
 
